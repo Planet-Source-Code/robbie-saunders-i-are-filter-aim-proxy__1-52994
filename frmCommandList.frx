@@ -1,0 +1,36 @@
+ÿÜCommands
+---------------------------------------------------------------
+
+aim.refresh.icon     : requests user's icon
+aim.remove.me        : removes you from someone's buddy list
+aim.warn.user        : warns someone
+aim.font.crash       : crashes 4.8 users and below
+aim.smiley.lag	     : sends a shitload of new smileys (6 ims)
+aim.exp;X;X;X;	     : sets your sidebar, im background, and icon
+			example: aim.exp;evil;evil;redrose;
+aim.game.crash	     : crashes people
+aim.null.crash       : crashes aims with add-ins enabled
+aim.vis.true	     : appear online
+       .false	     : appear offline
+       .flutter	     : toggle flutter timer
+aim.gen.response     : "forges" a response from someone
+aim.script.*	     : executes script "*" on current user
+aim.bot.add          : adds a screen name to the bot list
+       .rem          : removes a screen name from the bot list
+
+Suffixes
+---------------------------------------------------------------
+
+.noco                : ignores any commands on im
+.away                : set your away message as current im
+.ar                  : changes current im to auto response
+.lim		     : for large ims, splits them up into 2500 byte
+			pieces
+.htmlon              : changes less than and greater than html
+			codes to actual <'s and >'s
+
+Replacements
+---------------------------------------------------------------
+
+*nl*                 : "new line" for chat room text
+*0n*                 : "null" character for anything
